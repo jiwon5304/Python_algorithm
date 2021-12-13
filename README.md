@@ -8,8 +8,8 @@
 #### 5. 콜라츠 추측 [문제](https://programmers.co.kr/learn/courses/30/lessons/12943) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_5.%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.py)
 #### 6. 평균구하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12944) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_6.%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 #### 7. 하샤드 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_7.%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.py)
-#### 8. 제일 작은 수 제거하기[문제](https://programmers.co.kr/learn/courses/30/lessons/12935) & [풀이]()
-
+#### 8. 제일 작은 수 제거하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12935) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_8.%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)
+#### 9. 짝수와 홀수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_9.%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py)
 
 ## 블로그 정리
 
