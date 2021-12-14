@@ -20,8 +20,8 @@
 
 #### 9. 짝수와 홀수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_9.%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py)
 
-#### 10. 정수 제곱근 판별 [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) & [풀이]()
+#### 10. 정수 제곱근 판별 [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_10.%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.py)
 
-#### 11. 정수내림차순으로 정렬하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) & [풀이]()
+#### 11. 정수내림차순으로 정렬하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_11.%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
 
 ## 블로그 정리
