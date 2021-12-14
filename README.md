@@ -1,6 +1,7 @@
-# 💯Python 알고리즘 문제
+# 💯Python 알고리즘 문제 [프로그래머스] 
+<br>
 
-## [프로그래머스] Level1
+### 💡 Level1
 
 #### 1. 행렬의 덧셈 [문제](https://programmers.co.kr/learn/courses/30/lessons/12950) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_1.%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py)
 
@@ -24,4 +25,6 @@
 
 #### 11. 정수내림차순으로 정렬하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_11.%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
 
-## 블로그 정리
+<br><br>
+
+## 📝 블로그 정리
