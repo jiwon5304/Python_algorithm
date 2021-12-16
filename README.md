@@ -30,6 +30,8 @@
 
 #### 13. 자릿수 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12931) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_13.%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
 
+#### 14. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) & [풀이]()
+
 <br><br>
 
 ## 📝 블로그 정리
