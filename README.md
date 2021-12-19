@@ -32,6 +32,10 @@
 
 #### 14. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_14.%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
+#### 15. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) & [풀이]()
+
+#### 16. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) & [풀이]()
+
 <br><br>
 
 ## 📝 블로그 정리
