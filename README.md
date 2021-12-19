@@ -32,9 +32,9 @@
 
 #### 14. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_14.%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
-#### 15. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) & [풀이]()
+#### 15. 약수의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_15.%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.py)
 
-#### 16. 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) & [풀이]()
+#### 16. 시저암호 [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_16.%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.py)
 
 <br><br>
 
