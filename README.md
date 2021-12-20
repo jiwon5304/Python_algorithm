@@ -36,17 +36,17 @@
 
 #### 16. 시저암호 [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_16.%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.py)
 
-#### 17. 문자열을 정수로 바꾸기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) & [풀이]()
+#### 17. 문자열을 정수로 바꾸기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_17.%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.py)
 
-#### 18. 수박수박수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) & [풀이]()
+#### 18. 수박수박수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_18.%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py)
 
-#### 19. 서울에서 김서방 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12919) & [풀이]()
+#### 19. 서울에서 김서방 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12919) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_19.%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.py)
 
-#### 20. 문자열 다루기 기본 [문제](https://programmers.co.kr/learn/courses/30/lessons/12918) & [풀이]()
+#### 20. 문자열 다루기 기본 [문제](https://programmers.co.kr/learn/courses/30/lessons/12918) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_20.%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.py)
 
-#### 21. 문자열 내림차순으로 배치하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12917) & [풀이]()
+#### 21. 문자열 내림차순으로 배치하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12917) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_21.%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)
 
-#### 22. 문자열 내 p와 y의 개수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) & [풀이]()
+#### 22. 문자열 내 p와 y의 개수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_22.%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
 
 <br><br>
 
