@@ -48,6 +48,16 @@
 
 #### 22. 문자열 내 p와 y의 개수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_22.%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
 
+#### 23. 두 정수의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) & [풀이]()
+
+#### 24. 나누어 떨어지는 숫자 배열 [문제](https://programmers.co.kr/learn/courses/30/lessons/12910) & [풀이]()
+
+#### 25. 같은 숫자는 싫어 [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) & [풀이]()
+
+#### 26. 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) & [풀이]()
+
+#### 27. 부족한 금액 계산하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) & [풀이]()
+
 <br><br>
 
 ## 📝 블로그 정리
