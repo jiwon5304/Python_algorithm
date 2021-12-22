@@ -58,9 +58,9 @@
 
 #### 27. 부족한 금액 계산하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_27.%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py)
 
-#### 28. 나머지가 1이 되는 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/87389) & [풀이](
+#### 28. 나머지가 1이 되는 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/87389) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_28.%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98.py)
 
-#### 29. 최소직사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) & [풀이]()
+#### 29. 최소직사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_29.%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
 
 <br><br>
 
