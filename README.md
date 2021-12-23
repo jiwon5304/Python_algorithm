@@ -62,6 +62,8 @@
 
 #### 29. 최소직사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_29.%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
 
+#### 30. 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) & [풀이]()
+
 <br><br>
 
 ## 📝 블로그 정리
