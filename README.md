@@ -64,6 +64,10 @@
 
 #### 30. 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_30.2016%EB%85%84.py)
 
+#### 31. 두개 뽑아서 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) & [풀이](https://github.com/jiwon5304/Python_algorithm/blob/main/L1_31.%EB%91%90%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
+
+
+
 <br><br>
 
 ## 📝 블로그 정리
